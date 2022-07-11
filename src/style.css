@@ -1,0 +1,38 @@
+.table--div {
+  margin-top: 30px;
+  height: 300px;
+}
+
+.modal {
+  height: auto;
+  top: auto;
+  left: auto;
+  bottom: auto;
+  right: auto;
+}
+
+.input--date {
+  display: block;
+  width: 100%;
+  height: 38px;
+}
+
+.span--text {
+  display: inline-block;
+  margin-top: 20px;
+}
+
+.footer--style {
+  position: absolute;
+  bottom: 0;
+  margin-bottom: 30px;
+}
+
+.btn {
+  border-radius: 30%;
+}
+
+.page-num {
+  text-decoration: none;
+  font-size: 12px;
+}
